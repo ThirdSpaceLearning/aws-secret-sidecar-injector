@@ -4,3 +4,4 @@
 
 replicaCount: 1
 nameOveride: ""
+admissionControllerImage: "docker.io/amazon/aws-secrets-manager-secret-adm-controller:v0.1.5"
